@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA;EACC,kBAAkB,EADb;;AAIN;EACC,aAAa,EADP","file":"app.css","sourcesContent":["body {\n\tpadding-top: 60px;\n}\n\nselect{\n\twidth: 500px;\n}"],"sourceRoot":"/source/"}
